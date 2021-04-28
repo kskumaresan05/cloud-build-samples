@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, JLP!")
+  fmt.Println("Hello, JLP-EDI!")
 }
